@@ -1,4 +1,5 @@
 # COVID-19 BASIC APP UI DESIGN
+<img src="https://user-images.githubusercontent.com/81028182/124377425-95862380-dccb-11eb-8437-73ad37869a27.gif" width="330" height="690">![service]
 
 
 ## Some Screenshots
